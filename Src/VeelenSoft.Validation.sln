@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeelenSoft.Validation", "Core\VeelenSoft.Validation.csproj", "{356DFA32-B6C5-4EC2-8440-C59DA675B665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeelenSoft.Validation.Tests", "Tests\VeelenSoft.Validation.Tests.csproj", "{A8F4CB13-8AE7-4430-8971-25F8AA0FC128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356DFA32-B6C5-4EC2-8440-C59DA675B665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356DFA32-B6C5-4EC2-8440-C59DA675B665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356DFA32-B6C5-4EC2-8440-C59DA675B665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356DFA32-B6C5-4EC2-8440-C59DA675B665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F4CB13-8AE7-4430-8971-25F8AA0FC128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F4CB13-8AE7-4430-8971-25F8AA0FC128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F4CB13-8AE7-4430-8971-25F8AA0FC128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F4CB13-8AE7-4430-8971-25F8AA0FC128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
